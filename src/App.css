@@ -68,7 +68,7 @@
 }
 
 body {
-  background-color: darken(#fbeee0);
+  background-color: (#fbeee0);
 }
 
 
@@ -116,7 +116,7 @@ button:active {
 }
 
 #controls {
-  width: 20vw;
+  /* width: 20vw; */
   display: flex;
   align-items: center;
   flex-direction: row;
